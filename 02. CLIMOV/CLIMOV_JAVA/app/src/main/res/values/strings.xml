@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_logo_desc">Logo de la aplicación</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="app_name" />
+</resources>

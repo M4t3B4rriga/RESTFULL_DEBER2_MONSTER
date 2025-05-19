@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@android:color/white">
+
+    <!-- Imagen en la parte superior con mejor márgenes -->
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="24dp"
+        android:adjustViewBounds="true"
+        android:contentDescription="Logo conversión"
+        android:scaleType="fitCenter"
+        android:src="@drawable/conversion" />
+
+    <!-- Título con mejor tipografía y color -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Conversor de Temperatura"
+        android:textColor="#3F51B5"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="sans-serif-medium"/>
+
+    <!-- EditText con estilo mejorado -->
+    <EditText
+        android:id="@+id/etValor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese el valor"
+        android:inputType="numberDecimal"
+        android:background="@drawable/edittext_background"
+        android:padding="16dp"
+        android:textColor="#333333"
+        android:textSize="16sp"/>
+
+    <!-- RadioGroup con mejor espaciado -->
+    <RadioGroup
+        android:id="@+id/rgTipoConversion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="8dp">
+
+        <RadioButton
+            android:id="@+id/rbCelsiusFahrenheit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Celsius a Fahrenheit"
+            android:textSize="16sp"
+            android:paddingVertical="12dp"
+            android:textColor="#333333"/>
+
+        <RadioButton
+            android:id="@+id/rbFahrenheitCelsius"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fahrenheit a Celsius"
+            android:textSize="16sp"
+            android:paddingVertical="12dp"
+            android:textColor="#333333"/>
+    </RadioGroup>
+
+    <!-- Botón de convertir con estilo material -->
+    <Button
+        android:id="@+id/btnConvertir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Convertir"
+        android:backgroundTint="#3F51B5"
+        android:textColor="@android:color/white"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:paddingVertical="12dp"/>
+
+    <!-- Resultado con mejor estilo -->
+    <TextView
+        android:id="@+id/tvResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:textSize="18sp"
+        android:textColor="#3F51B5"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:padding="12dp"/>
+
+    <!-- Botón de cerrar sesión en rojo -->
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Cerrar Sesión"
+        android:backgroundTint="#F44336"
+        android:textColor="@android:color/white"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:paddingVertical="12dp"/>
+</LinearLayout>

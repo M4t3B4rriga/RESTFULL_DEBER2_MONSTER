@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|c:\\users\\karol\\onedrive\\documentos\\git\\restfull_deber2_monster\\01. servidor\\wsconversionunidades\\wsconversionunidades\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|solutionrelative:wsconversionunidades\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|c:\\users\\karol\\onedrive\\documentos\\git\\restfull_deber2_monster\\01. servidor\\wsconversionunidades\\wsconversionunidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|solutionrelative:wsconversionunidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|c:\\users\\karol\\onedrive\\documentos\\git\\restfull_deber2_monster\\01. servidor\\wsconversionunidades\\wsconversionunidades\\wsconversionunidades.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|solutionrelative:wsconversionunidades\\wsconversionunidades.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|c:\\users\\karol\\onedrive\\documentos\\git\\restfull_deber2_monster\\01. servidor\\wsconversionunidades\\wsconversionunidades\\ec.edu.monster.modelo\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|solutionrelative:wsconversionunidades\\ec.edu.monster.modelo\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|c:\\users\\karol\\onedrive\\documentos\\git\\restfull_deber2_monster\\01. servidor\\wsconversionunidades\\wsconversionunidades\\ec.edu.monster.controlador\\restunitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|solutionrelative:wsconversionunidades\\ec.edu.monster.controlador\\restunitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|c:\\users\\karol\\onedrive\\documentos\\git\\restfull_deber2_monster\\01. servidor\\wsconversionunidades\\wsconversionunidades\\ec.edu.monster.controlador\\restlogincontrollerunitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA229A8D-4DAC-4620-91BF-89F551BC782D}|WSConversionUnidades\\WSConversionUnidades.csproj|solutionrelative:wsconversionunidades\\ec.edu.monster.controlador\\restlogincontrollerunitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\appsettings.json",
+              "RelativeDocumentMoniker": "WSConversionUnidades\\appsettings.json",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\appsettings.json",
+              "RelativeToolTip": "WSConversionUnidades\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T22:15:59.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RESTLoginControllerUnitConverter.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\ec.edu.monster.controlador\\RESTLoginControllerUnitConverter.cs",
+              "RelativeDocumentMoniker": "WSConversionUnidades\\ec.edu.monster.controlador\\RESTLoginControllerUnitConverter.cs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\ec.edu.monster.controlador\\RESTLoginControllerUnitConverter.cs",
+              "RelativeToolTip": "WSConversionUnidades\\ec.edu.monster.controlador\\RESTLoginControllerUnitConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:23:48.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WSConversionUnidades.http",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.http",
+              "RelativeDocumentMoniker": "WSConversionUnidades\\WSConversionUnidades.http",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.http",
+              "RelativeToolTip": "WSConversionUnidades\\WSConversionUnidades.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-18T05:21:46.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\ec.edu.monster.modelo\\UserModel.cs",
+              "RelativeDocumentMoniker": "WSConversionUnidades\\ec.edu.monster.modelo\\UserModel.cs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\ec.edu.monster.modelo\\UserModel.cs",
+              "RelativeToolTip": "WSConversionUnidades\\ec.edu.monster.modelo\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:24:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\Program.cs",
+              "RelativeDocumentMoniker": "WSConversionUnidades\\Program.cs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\Program.cs",
+              "RelativeToolTip": "WSConversionUnidades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:02:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RESTUnitConverter.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\ec.edu.monster.controlador\\RESTUnitConverter.cs",
+              "RelativeDocumentMoniker": "WSConversionUnidades\\ec.edu.monster.controlador\\RESTUnitConverter.cs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\ec.edu.monster.controlador\\RESTUnitConverter.cs",
+              "RelativeToolTip": "WSConversionUnidades\\ec.edu.monster.controlador\\RESTUnitConverter.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:23:54.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+﻿@model ClienteWebConversion.ec.edu.monster.modelo.ConversionViewModel
+@{
+    ViewBag.Title = "Conversión de Unidades";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        background-image: url('/Content/fondo.jpg'); /* Cambia el nombre si usas otra imagen */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        min-height: 100vh;
+    }
+
+    .form-conversion {
+        background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 10px;
+        padding: 30px;
+        width: 400px;
+        margin: 100px auto;
+        box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    }
+
+        .form-conversion h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .form-conversion label {
+            font-weight: bold;
+        }
+
+        .form-conversion input[type="submit"] {
+            margin-top: 15px;
+        }
+
+    .resultado {
+        margin-top: 20px;
+        font-size: 18px;
+        font-weight: bold;
+        color: green;
+        text-align: center;
+    }
+</style>
+
+<div class="form-conversion">
+    <h2>Conversión de Unidades</h2>
+
+    @using (Html.BeginForm())
+    {
+        <div>
+            <label>Tipo de conversión:</label>
+            @Html.DropDownListFor(m => m.TipoConversion, new SelectList(Model.Opciones), "--Seleccione--", new { @class = "form-control" })
+        </div>
+
+        <div>
+            <label>Valor a convertir:</label>
+            @Html.TextBoxFor(m => m.ValorEntrada, new { @class = "form-control", placeholder = "Ingrese valor" })
+        </div>
+
+        <div>
+            <input type="submit" value="Convertir" class="btn btn-primary btn-block" />
+        </div>
+
+        if (!string.IsNullOrEmpty(Model.Resultado))
+        {
+            <div class="resultado">
+                Resultado: @Model.Resultado
+            </div>
+        }
+    }
+</div>

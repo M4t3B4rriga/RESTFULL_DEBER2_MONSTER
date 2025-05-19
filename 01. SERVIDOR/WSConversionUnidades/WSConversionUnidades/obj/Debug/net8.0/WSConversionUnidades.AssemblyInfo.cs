@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WSConversionUnidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b58104b9e30ffb869eec614e578a8bfdc328d08")]
 [assembly: System.Reflection.AssemblyProductAttribute("WSConversionUnidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WSConversionUnidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\00. SOA_SIN_BDD\\04. REST_DONTNET_CONUNI_GRO04\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.csproj": {}
+    "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.csproj": {}
   },
   "projects": {
-    "C:\\00. SOA_SIN_BDD\\04. REST_DONTNET_CONUNI_GRO04\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.csproj": {
+    "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\00. SOA_SIN_BDD\\04. REST_DONTNET_CONUNI_GRO04\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.csproj",
+        "projectUniqueName": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.csproj",
         "projectName": "WSConversionUnidades",
-        "projectPath": "C:\\00. SOA_SIN_BDD\\04. REST_DONTNET_CONUNI_GRO04\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.csproj",
-        "packagesPath": "C:\\Users\\Adaly\\.nuget\\packages\\",
-        "outputPath": "C:\\00. SOA_SIN_BDD\\04. REST_DONTNET_CONUNI_GRO04\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\obj\\",
+        "projectPath": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\WSConversionUnidades.csproj",
+        "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karol\\OneDrive\\Documentos\\git\\RESTFULL_DEBER2_MONSTER\\01. SERVIDOR\\WSConversionUnidades\\WSConversionUnidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Adaly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

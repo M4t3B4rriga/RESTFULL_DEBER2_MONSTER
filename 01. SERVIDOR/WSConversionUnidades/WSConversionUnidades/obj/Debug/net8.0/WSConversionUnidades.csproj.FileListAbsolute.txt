@@ -34,3 +34,40 @@ C:\00. SOA_SIN_BDD\04. REST_DONTNET_CONUNI_GRO04\01. SERVIDOR\WSConversionUnidad
 C:\00. SOA_SIN_BDD\04. REST_DONTNET_CONUNI_GRO04\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.pdb
 C:\00. SOA_SIN_BDD\04. REST_DONTNET_CONUNI_GRO04\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.genruntimeconfig.cache
 C:\00. SOA_SIN_BDD\04. REST_DONTNET_CONUNI_GRO04\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\ref\WSConversionUnidades.dll
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\appsettings.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\WSConversionUnidades.staticwebassets.endpoints.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\WSConversionUnidades.exe
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\WSConversionUnidades.deps.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\WSConversionUnidades.runtimeconfig.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\WSConversionUnidades.dll
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\WSConversionUnidades.pdb
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.csproj.AssemblyReference.cache
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.AssemblyInfoInputs.cache
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.AssemblyInfo.cs
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.csproj.CoreCompileInputs.cache
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.sourcelink.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\scopedcss\bundle\WSConversionUnidades.styles.css
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets\msbuild.WSConversionUnidades.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets\msbuild.WSConversionUnidades.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets\msbuild.build.WSConversionUnidades.props
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WSConversionUnidades.props
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WSConversionUnidades.props
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConver.21C4A8B1.Up2Date
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.dll
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\refint\WSConversionUnidades.dll
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.pdb
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\WSConversionUnidades.genruntimeconfig.cache
+C:\Users\karol\OneDrive\Documentos\git\RESTFULL_DEBER2_MONSTER\01. SERVIDOR\WSConversionUnidades\WSConversionUnidades\obj\Debug\net8.0\ref\WSConversionUnidades.dll
