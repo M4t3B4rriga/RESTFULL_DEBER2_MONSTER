@@ -14,7 +14,7 @@ import java.io.InputStreamReader;
  * @author sebas
  */
 public class ConversorService {
-    private final String endpoint = "http://192.168.0.102:8080/ServidorRESTConversion/api/conversion";
+    private final String endpoint = "http://10.40.26.92:8080/ServidorRESTConversion/api/conversion";
 
     public String convertir(String tipo, double valor) {
     try {

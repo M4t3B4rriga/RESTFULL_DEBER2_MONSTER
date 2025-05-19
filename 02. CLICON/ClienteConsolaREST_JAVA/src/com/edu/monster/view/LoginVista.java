@@ -17,6 +17,6 @@ public class LoginVista {
         System.out.print("Contraseña: ");
         String pass = sc.nextLine();
 
-        return user.equals("monster") && pass.equals("monster9");
+        return user.equals("MONSTER") && pass.equals("MONSTER9");
     }
 }

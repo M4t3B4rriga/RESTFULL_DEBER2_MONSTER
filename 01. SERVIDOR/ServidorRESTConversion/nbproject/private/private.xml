@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/karol/OneDrive/Documentos/git/RESTFULL_DEBER2_MONSTER/01.%20SERVIDOR/ServidorRESTConversion/web/index.html</file>
-            <file>file:/C:/Users/karol/OneDrive/Documentos/git/RESTFULL_DEBER2_MONSTER/01.%20SERVIDOR/ServidorRESTConversion/src/java/ec/edu/monster/model/Conversion.java</file>
-            <file>file:/C:/Users/karol/OneDrive/Documentos/git/RESTFULL_DEBER2_MONSTER/01.%20SERVIDOR/ServidorRESTConversion/src/java/ec/edu/monster/config/ApplicationConfig.java</file>
-            <file>file:/C:/Users/karol/OneDrive/Documentos/git/RESTFULL_DEBER2_MONSTER/01.%20SERVIDOR/ServidorRESTConversion/src/java/ec/edu/monster/servicio/ServicioConversion.java</file>
-            <file>file:/C:/Users/karol/OneDrive/Documentos/git/RESTFULL_DEBER2_MONSTER/01.%20SERVIDOR/ServidorRESTConversion/src/java/ec/edu/monster/controller/ConversionController.java</file>
+            <file>file:/C:/00.%20SOA_SIN_BDD/03.%20REST_JAVA_CONUNI_GR04/01.%20SERVIDOR/ServidorRESTConversion/web/index.html</file>
+            <file>file:/C:/00.%20SOA_SIN_BDD/03.%20REST_JAVA_CONUNI_GR04/01.%20SERVIDOR/ServidorRESTConversion/web/WEB-INF/beans.xml</file>
+            <file>file:/C:/00.%20SOA_SIN_BDD/03.%20REST_JAVA_CONUNI_GR04/01.%20SERVIDOR/ServidorRESTConversion/src/java/ec/edu/monster/model/Conversion.java</file>
+            <file>file:/C:/00.%20SOA_SIN_BDD/03.%20REST_JAVA_CONUNI_GR04/01.%20SERVIDOR/ServidorRESTConversion/src/java/ec/edu/monster/controller/ConversionController.java</file>
+            <file>file:/C:/00.%20SOA_SIN_BDD/03.%20REST_JAVA_CONUNI_GR04/01.%20SERVIDOR/ServidorRESTConversion/src/java/ec/edu/monster/config/ApplicationConfig.java</file>
+            <file>file:/C:/00.%20SOA_SIN_BDD/03.%20REST_JAVA_CONUNI_GR04/01.%20SERVIDOR/ServidorRESTConversion/src/java/ec/edu/monster/servicio/ServicioConversion.java</file>
         </group>
     </open-files>
 </project-private>

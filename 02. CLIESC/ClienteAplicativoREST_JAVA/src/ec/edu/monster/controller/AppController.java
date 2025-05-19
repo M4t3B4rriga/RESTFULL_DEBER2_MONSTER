@@ -38,7 +38,7 @@ public class AppController {
                 String user = loginFrame.usuarioField.getText();
                 String pass = new String(loginFrame.passwordField.getPassword());
 
-                if ("monster".equals(user) && "monster9".equals(pass)) {
+                if ("MONSTER".equals(user) && "MONSTER9".equals(pass)) {
                     loginFrame.dispose();
                     conversionFrame.setVisible(true);
                 } else {
