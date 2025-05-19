@@ -7,7 +7,7 @@ document.addEventListener('click', async (e) => {
   if (e.target.id === 'loginBtn') {
     const user = document.getElementById('usuario').value;
     const pass = document.getElementById('password').value;
-    if (user === 'monster' && pass === 'monster9') {
+    if (user === 'MONSTER' && pass === 'MONSTER9') {
       view.mostrarConversor();
     } else {
       alert('Credenciales incorrectas');

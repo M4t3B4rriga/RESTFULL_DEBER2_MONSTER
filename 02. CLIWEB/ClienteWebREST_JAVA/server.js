@@ -1,10 +1,12 @@
 const express = require('express');
+const path=require('path');
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 const app = express();
 
 app.use(express.json()); // Importante para leer JSON del body
+app.use(express.static(__dirname)); 
 
-const TARGET_URL = 'http://192.168.0.102:8080/ServidorRESTConversion/api/conversion';
+const TARGET_URL = 'http://10.40.26.92:8080/ServidorRESTConversion/api/conversion';
 
 app.post('/api/conversion', async (req, res) => {
     try {
